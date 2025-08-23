@@ -1,0 +1,22 @@
+#cloud-config
+ disable_root: true
+ timezone: Europe/Moscow
+ repo_update: true
+ apt:
+   preserve_sources_list: true
+ packages:
+  - nginx
+ runcmd:
+  - [ systemctl, nginx-reload ]
+  - [ systemctl, enable, nginx.service ]
+  - [ systemctl, start, --no-block, nginx.service ]
+ users:
+  - name: dmitrykms
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+ users:
+  - name: dmitrykms
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
