@@ -75,11 +75,11 @@
 https://github.com/DmitryEgorovy/toleranceinthecloud/blob/8b5ce146140f6d7b3d15a022e72572005a649d49/files/main.tf
 
 Скриншоты статуса балансировщика и целевой группы
-![Alt text](SCREENSHORTS/1.2.png)
-![Alt text](SCREENSHORTS/1.3.png)
-![Alt text](SCREENSHORTS/1.4.png)
+![Alt text](screenshot/1.2.png)
+![Alt text](screenshot/1.3.png)
+![Alt text](screenshot/1.4.png)
 
 Скриншот страницы при запросе ip-адреса балнсировщика
-![Alt text](SCREENSHORTS/1.5.png)
+![Alt text](screenshot/1.5.png)
 
 ---
