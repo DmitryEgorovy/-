@@ -75,6 +75,9 @@
 main.tf:  
 https://github.com/DmitryEgorovy/toleranceinthecloud/blob/8b5ce146140f6d7b3d15a022e72572005a649d49/files/main.tf
 
+meta.yaml  
+https://github.com/DmitryEgorovy/toleranceinthecloud/blob/e98e94072a42efff80eee66c91881f6db2346905/files/meta.yaml
+---
 
 Скриншоты статуса балансировщика и целевой группы
 ![Alt text](screenshot/1.2.png)
