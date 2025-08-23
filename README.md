@@ -70,9 +70,11 @@
 
 ![Alt text](screenshot/1.1.png)
 
-Манифесты Terraform 
-main.tf:
+Манифесты Terraform
+---
+main.tf:  
 https://github.com/DmitryEgorovy/toleranceinthecloud/blob/8b5ce146140f6d7b3d15a022e72572005a649d49/files/main.tf
+
 
 Скриншоты статуса балансировщика и целевой группы
 ![Alt text](screenshot/1.2.png)
