@@ -68,7 +68,7 @@
 Решение:
 Скриншот результата выполения Terrafor Playbook.
 
-![Alt text](SCREENSHORTS/1.1.png)
+![Alt text](screenshot/1.1.png)
 
 Манифесты Terraform 
 
